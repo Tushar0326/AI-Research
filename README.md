@@ -88,4 +88,4 @@ No license is currently included. If you'd like to apply a license (e.g., MIT), 
 
 Repository: `Tushar0326/AI-Research`
 
-If you'd like adjustments (formatting, more details, examples, or a license), tell me what you'd prefer and I can update the README accordingly.
+
